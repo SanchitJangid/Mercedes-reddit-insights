@@ -13,9 +13,9 @@ The dataset can be used for:
 - Analyzing user engagement (upvotes, scores, ratios).  
 - Building future visualizations or dashboards.  
 
-🛠️ Libraries Used
-requests – for using APIs
-Pandas – to visualize data in tabular form 
+## 🛠️ Libraries Used
+- requests – for using APIs
+- Pandas – to visualize data in tabular form 
 
 ---
 Made with ❤️ using Python + Reddit API
