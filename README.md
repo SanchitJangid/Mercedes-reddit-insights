@@ -13,5 +13,9 @@ The dataset can be used for:
 - Analyzing user engagement (upvotes, scores, ratios).  
 - Building future visualizations or dashboards.  
 
+🛠️ Libraries Used
+requests – 
+BeautifulSoup – 
+Pandas – 
 ---
 Made with ❤️ using Python + Reddit API
