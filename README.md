@@ -14,9 +14,8 @@ The dataset can be used for:
 - Building future visualizations or dashboards.  
 
 🛠️ Libraries Used
-requests – 
-BeautifulSoup – 
-Pandas – 
+requests – for using APIs
+Pandas – to visualize data in tabular form 
 
 ---
 Made with ❤️ using Python + Reddit API
